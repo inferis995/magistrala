@@ -40,7 +40,9 @@ require (
 	github.com/plgd-dev/go-coap/v3 v3.5.1
 	github.com/prometheus/client_golang v1.23.2
 	github.com/redis/go-redis/v9 v9.19.0
+	github.com/robinson/gos7 v0.0.0-20241205073040-7ea1d6fb9d20
 	github.com/rubenv/sql-migrate v1.8.1
+	github.com/simonvetter/modbus v1.6.4
 	github.com/slack-go/slack v0.24.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
@@ -69,6 +71,7 @@ require (
 )
 
 require (
+	github.com/goburrow/serial v0.1.0 // indirect
 	github.com/smarty/assertions v1.16.0 // indirect
 	github.com/smartystreets/goconvey v1.8.1 // indirect
 )
